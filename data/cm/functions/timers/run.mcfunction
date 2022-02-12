@@ -1,12 +1,12 @@
 #Countdowns
-execute if score down1 timers matches 1.. run function cm:timers/down1
-execute if score down2 timers matches 1.. run function cm:timers/down2
-execute if score down3 timers matches 1.. run function cm:timers/down3
+    execute if score down1 timers matches 1.. run function cm:timers/down1
+    execute if score down2 timers matches 1.. run function cm:timers/down2
+    execute if score down3 timers matches 1.. run function cm:timers/down3
 
 #Countups (Change Ticks to count up to here!)
-execute if score up1 timers matches 1..100 run function cm:timers/up1
-execute if score up2 timers matches 1..600 run function cm:timers/up2
-execute if score up3 timers matches 1..1200 run function cm:timers/up3
+    execute if score up1 timers matches 1..100 run function cm:timers/up1
+    execute if score up2 timers matches 1..600 run function cm:timers/up2
+    execute if score up3 timers matches 1..1200 run function cm:timers/up3
 
 #Debugging in Actionbar
     #COUNTDOWNS: 
