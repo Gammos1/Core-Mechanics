@@ -1,0 +1,1 @@
+execute store result score @s ylvl run data get entity @s Pos[1]
