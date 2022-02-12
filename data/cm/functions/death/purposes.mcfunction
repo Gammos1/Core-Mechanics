@@ -1,4 +1,5 @@
 #Died under Y = -64
+    function cm:utility/check_ylvl
     tag @s[scores={ylvl=..-64}] add died.purpose
     tag @s[scores={ylvl=..-64}] add died.void
 
