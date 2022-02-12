@@ -4,6 +4,8 @@ This datapack can be used as a template datapack for maps. It has a few handy fe
 **Content**
 - Custom Death Message System
 - Timer Preset
+- Raycast
+- Right click detection (ender_eye)
 
 (more to come)
 
